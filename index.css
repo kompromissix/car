@@ -652,7 +652,7 @@ a{
 .slider-center{
     display: flex;
 }
-@media screen and (min-width:431px) and (max-width:768px){
+@media screen and (min-width:431px) and (max-width:767px){
     header{
         width: 100%;
     }
@@ -940,6 +940,245 @@ a{
     .background3{
         height: 500px;
         align-items: start;
+    }
+    .ruka{
+        width: 120px;
+        height: 120px;
+    }
+    .slider-center{
+        width: 100%;
+    }
+    .suka{
+        height: 30px;
+        width: 100px;
+    }
+    .vig{
+        font-size: 10px;
+        width: 100%;
+        height: 100%;
+    }
+    .figmahueta{
+        width: 30%;
+    }
+    .background4{
+        height: 1500px;
+        display: flex;
+        align-items: start;
+    }
+    .vova{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .rug{
+        width: 100%;
+    }
+    .section-center{
+        width: 100%;
+        display: flex;
+    }
+    .section-center-down{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .background5{
+        height: 2000px;
+    }
+    .container-div{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .background6{
+        width: 100%;
+    }
+    .container{
+        width: 100%;
+    }
+    .background7{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+        align-items: end;
+    }
+    .container-down{
+        width: 100%;
+    }
+    .background8{
+        width: 100%;
+    }
+    .container-very-down{
+        width: 100%;
+    }
+    .text-otvet{
+        font-size: 25px;
+    }
+    .background9{
+        width: 100%;
+    }
+    .container-footer{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .container-footer-text-left{
+        font-size: 13px;
+    }
+    .container-footer-text-right{
+        width: 100%;
+        margin-top: 10px;
+        font-size: 15px;
+        align-items: center;
+    }
+    .obj{
+        width: 100%;
+    }
+    .obj11{
+        width: 100%;
+    }
+    .img-car{
+        width: 100%;
+    }
+    .pidor{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .gun{
+        font-size: 14px;
+        width: 60%;
+    }
+    .text-Neque{
+        font-size: 14px;
+        width: 60%;
+    }
+    .slider{
+        display: flex;
+        justify-content: space-around;
+    }
+    .imgandtext{
+        font-size: 25px;
+    }
+    .text-dich{
+        width: 100%;
+    }
+    .div-hui{
+        width: 100%;
+    }
+    .container-right{
+        width: 100%;
+    }
+    .vix{
+        width: 100%;
+    }
+    .input{
+        width: 100%;
+    }
+    .text-input1{
+        width: 50%;
+    }
+    .text-input2{
+        width: 50%;
+    }
+    .inputandicon{
+        width: 100%;
+    }
+    .text-input3{
+        width: 90%;
+    }
+    .sigma{
+        width: 100%;
+    }
+    .sim{
+        width: 50%;
+    }
+    .sim2{
+        width: 50%;
+    }
+    .pig{
+        font-size: 14px;
+        width: 100%;
+    }
+    .curva{
+        width: 100%;
+    }
+    .suka{
+        width: 100%;
+        height: 50px;
+    }
+    .turik{
+        width: 100%;
+    }
+    .section-center-up{
+        width: 100%;
+    }
+    .vector-container{
+        width: 100%;
+    }
+    .indo-address{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .posit{
+        margin-bottom: 10px
+    }
+}
+@media screen and (min-width:768px) and (max-width:1023px){
+    header{
+        width: 100%;
+    }
+    .great{
+        font-size: 15px;
+        width: 90%;
+    }
+    .hall{
+        font-size: 5px;
+    }
+    .penis{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .reat{
+        width: 20px;
+        height: 20px;
+    }
+    .sem{
+        font-size: 100px;
+    }
+    .dig{
+        width: 100%;
+    }
+    .op{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .background2{
+        height: 1000px;
+    }
+    .adik{
+        font-size: 25px;
+    }
+    .m{
+        width: 80%;
+        height: 80%;
+    }
+    .sigma{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .background3{
+        height: 500px;
+        align-items: start;
+    }
+    .jesus{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
     }
     .ruka{
         width: 120px;
